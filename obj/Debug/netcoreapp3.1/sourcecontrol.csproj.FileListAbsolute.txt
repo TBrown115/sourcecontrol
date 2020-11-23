@@ -1,0 +1,13 @@
+/home/codespace/workspace/sourcecontrol/bin/Debug/netcoreapp3.1/sourcecontrol
+/home/codespace/workspace/sourcecontrol/bin/Debug/netcoreapp3.1/sourcecontrol.deps.json
+/home/codespace/workspace/sourcecontrol/bin/Debug/netcoreapp3.1/sourcecontrol.runtimeconfig.json
+/home/codespace/workspace/sourcecontrol/bin/Debug/netcoreapp3.1/sourcecontrol.runtimeconfig.dev.json
+/home/codespace/workspace/sourcecontrol/bin/Debug/netcoreapp3.1/sourcecontrol.dll
+/home/codespace/workspace/sourcecontrol/bin/Debug/netcoreapp3.1/sourcecontrol.pdb
+/home/codespace/workspace/sourcecontrol/obj/Debug/netcoreapp3.1/sourcecontrol.csprojAssemblyReference.cache
+/home/codespace/workspace/sourcecontrol/obj/Debug/netcoreapp3.1/sourcecontrol.AssemblyInfoInputs.cache
+/home/codespace/workspace/sourcecontrol/obj/Debug/netcoreapp3.1/sourcecontrol.AssemblyInfo.cs
+/home/codespace/workspace/sourcecontrol/obj/Debug/netcoreapp3.1/sourcecontrol.csproj.CoreCompileInputs.cache
+/home/codespace/workspace/sourcecontrol/obj/Debug/netcoreapp3.1/sourcecontrol.dll
+/home/codespace/workspace/sourcecontrol/obj/Debug/netcoreapp3.1/sourcecontrol.pdb
+/home/codespace/workspace/sourcecontrol/obj/Debug/netcoreapp3.1/sourcecontrol.genruntimeconfig.cache
